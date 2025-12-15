@@ -16,21 +16,8 @@ Modules - Lab from the specialization. I completed the course specialization a w
 ├── Module 2
 │   ├── Module 2 Lesson Lab
 │   │   ├── Lesson 1 - Data structures
-│   │   │   ├── __pycache__
-│   │   │   │   └── helper_functions.cpython-311.pyc
-│   │   │   ├── 2016-FCC-New-Coders-Survey-Data.csv
-│   │   │   ├── helper_functions.py
-│   │   │   ├── L1V2_Import_testing.ipynb
-│   │   │   ├── L1V4_Coder_analysis.ipynb
-│   │   │   ├── restaurant_data.csv
-│   │   │   ├── survey_data.csv
-│   │   │   └── survey-questions.txt
 │   │   ├── Lesson 2 - Sorting and filtering
-│   │   │   ├── L2V1_Coder_analysis_pt2.ipynb
-│   │   │   └── survey_data.csv
 │   │   └── Lesson 3 - Descriptive statistics
-│   │       ├── L3V1_Coder_analysis_pt3.ipynb
-│   │       └── survey_data.csv
 │   ├── Module 2 Subway Buenos Aires
 │   │   ├── C3M2L1.ipynb
 │   │   ├── C3M2L2.ipynb
@@ -50,35 +37,15 @@ Modules - Lab from the specialization. I completed the course specialization a w
     │   ├── C3M3_Assignment.ipynb
     │   ├── data
     │   │   └── combined_marine_dataset_3sites.csv
-    │   └── imgs
-    │       ├── boxplot.png
-    │       ├── bur13-hist.png
-    │       ├── grouped_bar.png
-    │       ├── hist.png
-    │       └── scatter.png
     └── Module 3 Flights Delays
         ├── L1
         │   ├── C3M3L1.ipynb
-        │   ├── imgsL1
-        │   │   ├── barchar_bare.png
-        │   │   ├── barchart.png
-        │   │   ├── correl.png
-        │   │   ├── grouped_barchart.png
-        │   │   └── stacked_bar.png
         │   └── otp_time_series_web.csv
         ├── L2
         │   ├── C3M3L2.ipynb
-        │   ├── imgsL2
-        │   │   ├── boxplot_airline.png
-        │   │   ├── boxplot.png
-        │   │   ├── heatmap.png
-        │   │   └── hist.png
         │   └── otp_top5_routes.csv
         └── L3
             ├── C3M3L3.ipynb
-            ├── imgsL3
-            │   ├── hist_rug.png
-            │   └── subplots.png
             └── otp_top5_routes.csv
 ```
 
