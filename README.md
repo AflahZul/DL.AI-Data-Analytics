@@ -2,8 +2,9 @@
 Modules - Lab from the specialization. I completed the course specialization a while ago. Never got the chance to update repo.
 
 ## Python for Data Analytics
-[Module 1](Python%20for%20Data%20Analytics/Module%201/Module%201%20Code.ipynb)
-[Module 2](Python%20for%20Data%20Analytics/Module%202)
+- [Module 1](Python%20for%20Data%20Analytics/Module%201)
+- [Module 2](Python%20for%20Data%20Analytics/Module%202)
+- [Module 3](Python%20for%20Data%20Analytics/Module%203)
 
 ```
 ── Module 1
