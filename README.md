@@ -1,5 +1,5 @@
 # DL.AI-Data-Analytics
-Modules - Lab from the specialization. I completed the course specialization a while ago. Never got the chance to update repo.
+Modules - Python Labs from the specialization. Course completion was on July 2025. 
 
 ## Python for Data Analytics
 - [Module 1](Python%20for%20Data%20Analytics/Module%201)
